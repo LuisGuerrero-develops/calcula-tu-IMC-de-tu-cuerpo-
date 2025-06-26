@@ -24,11 +24,11 @@ Para utilizar esta calculadora, sigue estos pasos:
 Clona o descarga el repositorio:
 
 Bash
-
+```
 git clone https://github.com/tu-usuario/tu-repositorio.git
 Abre el archivo index.html:
 Navega hasta la carpeta del proyecto y abre el archivo index.html en tu navegador web preferido.
-
+```
 Introduce tus datos:
 
 Escribe tu peso en el campo "Peso (kg)".
