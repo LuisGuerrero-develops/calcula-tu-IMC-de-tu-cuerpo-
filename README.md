@@ -51,7 +51,9 @@ CSS3: Para el diseño y la apariencia visual, utilizando Flexbox para el centrad
 JavaScript: Para la lógica de la aplicación, el cálculo del IMC y la manipulación del DOM.
 
 📁 Estructura del Proyecto
+'''
 /
 ├── index.html       # Archivo principal HTML
 ├── styles.css       # Hoja de estilos CSS
 └── script.js        # Archivo de lógica JavaScript
+'''
